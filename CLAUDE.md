@@ -1,3 +1,12 @@
+# ⚠️ 이전됨 — 이 저장소는 더 이상 수정하지 않음
+
+미생물 서술형 앱은 **jkchk23/cns-quiz** 저장소의 `micro/`로 합쳐졌다 (CNS 약리 앱과 전환 메뉴로 오감).
+- 새 주소: https://jkchk23.github.io/cns-quiz/micro/
+- 원본: cns-quiz의 `src/micro/`
+- 문항 수정·추가는 반드시 cns-quiz에서 할 것. 이 저장소는 옛 홈 화면 아이콘용으로만 남겨 둠.
+
+---
+
 # 미생물 서술형 (iPad 웹앱, GitHub Pages)
 
 배포: https://jkchk23.github.io/micro-essay/ — main 브랜치 루트가 그대로 서비스됨.
