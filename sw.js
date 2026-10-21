@@ -1,4 +1,4 @@
-const CACHE = 'micro-essay-202610211409';
+const CACHE = 'micro-essay-202610211414';
 const FILES = ['./', 'index.html', 'manifest.json', 'icon-180.png', 'icon-512.png'];
 // 설치 시 HTTP 캐시를 건너뛰고 서버에서 새로 받아 저장
 self.addEventListener('install', e => {
